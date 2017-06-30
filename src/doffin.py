@@ -4,7 +4,10 @@ cpvs=[
     '30200000', #Datautstyr og -materiell
 ####34=Transportutstyr og hjelpeprodukter til transport
     '34970000', #Trafikkovervåkningssystem
-    '34990000', #Kontroll-, sikkerhets- signal- og lysutstyr
+    '34996000', #Kontroll-, sikkerhets- eller signalutstyr til veier
+    '34997000', #Kontroll-, sikkerhets- eller signalutstyr til lufthavner
+    '34998000', #Kontroll-, sikkerhets- eller signalutstyr til havner
+    '34999000', #Signalgeneratorer, signalfordelere til antenner og galvaniseringsmaskiner
 ####35=Sikkerhets-, brannslukkings-, politi- og forsvarsutstyr
     '35125000', #Overvåkingssystemer
 ####42=Diverse maskineri til generelt og spesielt bruk
